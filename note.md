@@ -1,0 +1,1 @@
+[note](https://github.com/FarAway6834/MutedPlaylists/blob/main/spec_korean.md)
